@@ -68,4 +68,9 @@ One hot encoder
 
 7- **VARIABLE CREATION**  - new variable will create using transformer or imputation 
 
+## Input Noise Data as Rawdata
+![image](https://github.com/user-attachments/assets/b2f9e819-399f-434f-9a18-313b1865a328)
+## Output as clean Data
+![image](https://github.com/user-attachments/assets/4954f618-e010-444c-a1e1-9ec15be53a70)
+
 
